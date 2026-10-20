@@ -3,7 +3,7 @@
 Detects and counts 4 vehicle classes (**Bus, Motorcycle, Car, Truck**) in traffic images.
 YOLOv8s was fine-tuned on a cleaned Roboflow dataset and is served through a small desktop demo app.
 
-> Team project (3 members) for the *Introduction to Artificial Intelligence* course,
+> Team project (6 members) for the *Introduction to Artificial Intelligence* course,
 > University of Science, VNU-HCM, 2026. Code comments are in Vietnamese.
 
 ![Predictions on validation images](results/val_batch0_pred.jpg)
