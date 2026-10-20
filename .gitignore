@@ -1,0 +1,17 @@
+# Model weights & archives
+*.pt
+*.zip
+
+# Datasets (download from Roboflow, see README)
+VEHICLE_DATASET_YOLO/
+Vehicles.v4-final_cuoi_cung.coco/
+ANH_TRUNG_YHET/
+ANH_KHONG_TRUNG_YHET/
+ANH_AUGMENT_THEO_TAP/
+runs/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
